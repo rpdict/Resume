@@ -1,89 +1,87 @@
 # 赵瑞鹏
 
 * * *
-2017年毕业于沈阳北软信息职业技术学院-软件技术专业，大专学历
+1996年生于辽宁沈阳，目前在沈阳格微软件担任Java开发工程师。
 
 * Github：https://github.com/rpdict
 
 联系方式：
 
 * 邮箱：[rpdict@gmail.com](mailto:rpdict@gmail.com)
-
 * 手机：15609826428
+* QQ  ：675761774
+* 微信：rpdict
 
 # 求职意向
 
 * * *
-PHP/Node.js 全职
+JAVA/PHP 服务端
 
 # 近期项目
 
 * * *
 
-## 大学里平台
 
-2016 年 1 月至2016 年 3 月在沈阳微拓科技实习，大学里平台是基于微信公众平台的大学社区，使用MAMP进行开发，包括二手市场、班车查询等功能。我负责开发用微信扫描二维码登录、二手市场功能拓展、后台模块的页面布局等。
 
-## 社团主页
+## 军民融合汇聚编审系统
 
-2015年7月，在沈阳格微软件实习一个月，使用Grails+MongoDB进行web开发，完成了注册和登录功能。 
-2016年3月至今，主页地址：[http://nsilearning.cn](http://nsilearning.cn/)，包含博客功能，使用了PHP的laravel框架+MySQL，页面使用Bootstrap布局，支持Markdown，有后台管理页面（未开放）。
+2017年9月，该系统是军民融合网的内容考核子系统，使用SpringMVC、Mybatis实现，我参与了数据库迁移工作，部分功能的编码工作，服务器的环境搭建，包括：
 
-## 个人博客
+* 将MySQL数据库迁移到达梦国产数据库
+* 使用NginX实现负载均衡
+* 使用NginX实现静态资源反向代理
+* SSL证书的生成
+* 使用NginX配置SSL证书
+* TongWeb服务器的配置
+* 将原有HTTP接口重构为HTTPS接口
+* 开发了文章发布之前需要各部门确认的功能
+* 开发了多条件搜索文章功能
+* 修复多处页面样式的问题
 
-2016年11月，使用Node.js的Express框架实现了静态博客，通过读取硬盘上的Markdown文件来生成静态页面，使用Nginx实现HTTPS双向认证来保护上传地址
+## 手机营业厅活动后台管理系统
+
+2017年7月至今，该系统是一个使用SpringMVC、Mybatis实现的沈阳联通手机营业厅活动后台管理系统，用来管理沈阳联通手机营业厅的本地化活动，我在过去半年中负责开发日志分析、下载，节日活动页面等功能。
+
+## 企业信息管理平台门户的设计与实现 
+
+2017年2月至4月，企业信息管理平台门户的设计与实现是一个使用PHP构建的管理系统，网站包括扫描二维码登录、RBAC权限管理、富文本信息的录入与展示。期间，我参与了全部数据库设计工作，全部的编码工作，服务器环境的搭建，包括：
+
+* 基于Laravel开发的企业信息管理系统
+* 使用Bootstrap布局
+* 使用zizaco/Entrust实现RBAC权限控制
+* 包含用户管理，文件上传，添加联系人等功能
+* 使用Node.js的Websocket-Node实现Websocket推送服务
+* 使用Redis的Pub/Sub功能与Node.js通信，实现手机扫码，电脑登录
+* 使用Laravel Mix定义Webpack的编译任务
+* 加深了ES6的使用
+* 加强了数据库的操作方法以及表之间的逻辑关系
+* 了解了两个服务器之间如何通信，加深了对HTTP层的理解
+* 加强了js操作DOM元素的使用
 
 # 技术栈
 
 * * *
 
-## PHP
+* PHP：熟悉 PHP，使用过 Laravel、Composer，开发过微信公众平台
+* Java：熟悉 Java，熟悉SpringMVC，工作期间开发过多项管理平台，熟悉常用算法
+* Node.js：熟悉JavaScript，了解Express框架，熟悉Websocket
+* 数据库：熟悉基本SQL语句，搭建过Master-Slave，用过MongoDB、Redis、Oracle、达梦
+* 前端：用过模板引擎，熟练使用jQuery、ajax、Bootstrap，用过Gulp、Webpack
 
-* 熟悉PHP语言
-* 早期使用MAMP、WAMP开发
-* 使用PHP参与开发“大学里”微信公众平台
-* 熟悉Laravel框架
-* 使用Composer管理项目所依赖的代码库
 
-## Java
 
-* 熟悉JAVA语言
-* 使用JAVA开发过注册登录系统（jsp+javaBean+sevlet）
-* 部分《算法》第四版答案托管于Github
-* 有使用grails框架的经验，实现了用户注册、登录、数据库使用MongoDB
-* 写过几个Android的Demo，代码托管于GitHub
 
-## Python
-
-* 使用Flask开发过登录注册功能
-* 使用web.py开发过学校社团的微信公众平台
-* 使用pyquery写过web爬虫
-
-## Node.js
-
-* 使用Express写了个静态博客系统
-* 使用Express+MongoDB开发了微博系统
-* 使用npm进行前端构建
-
-## Database
-
-* 熟悉SQL语句
-* 熟悉MongoDB的基本操作
-
-## Web前端
-
-* 对 HTML、CSS 和浏览器端 JavaScript 有基本的了解，有使用 Bootstrap的经验
-* 有使用模板引擎的经验（blade、ejs、jade）
-* 有使用jQuery的经验
-* 使用Gulp实现自动化构建
 
 # 技术之外
 
 * * *
 
 * 擅长游泳、音乐、素描
-* 熟练使用Git并用GitHub分享代码
-* 熟练使用Linux/OS X操作系统
+* 熟练使用Git、SVN等工具，并乐于在GitHub上分享代码
+* 经常在GitHub和StackOverflow上拷贝代码
+* 了解多种脚本语言
+* 熟悉 Linux 命令行，熟练使用 OS X 系统
 * 拿过三年的校奖学金，一次标兵，两次一等
 * 2015年暑假代表学校参加“全国高校MOOC联合会”，座标杭州浙江大学
+
 
