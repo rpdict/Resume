@@ -33,6 +33,7 @@ JAVA/PHP/Node.js全栈
 * 配置TongWeb服务器。
 * 重构HTTP接口为HTTPS。
 * 增加防XSS、CSRF等常见互联网攻击功能。
+* 加深了对互联网安全方面的知识和HTTP协议的使用。
 
 ## Redash开源数据可视化平台前端定制开发
 
@@ -65,7 +66,7 @@ JAVA/PHP/Node.js全栈
 * Java：有较为扎实的 Java基础，工作期间开发过多项管理平台，有Spring Cloud全家桶经验，熟悉常用算法，有RESTful API开发经验。
 * Node.js：熟悉JavaScript，了解Express框架，用过Websocket。
 * 数据库：熟悉基本SQL语句，搭建过Master-Slave，用过MongoDB、Redis、Oracle、达梦DB。
-* Web前端：熟练使用jQuery、ajax、Bootstrap，用过Gulp、Webpack，对React、Angular均有实践。
+* Web前端：熟练使用jQuery、ajax、axios、Bootstrap，用过Gulp、Webpack，对React、Angular均有实践。
 * Web容器：用过docker、vagrant，熟悉tomcat、NginX。
 
 
@@ -82,6 +83,5 @@ JAVA/PHP/Node.js全栈
 * 熟悉 Linux 命令行，熟练使用 OS X 系统。
 * 拿过三年的校奖学金，一次标兵，两次一等。
 * 2015年暑假代表学校参加“全国高校MOOC联合会”，座标杭州浙江大学。
-* 有代码洁癖，喜欢乱写的勿扰。
 
 
