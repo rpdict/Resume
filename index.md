@@ -1,7 +1,7 @@
 # 赵瑞鹏
 
 * * *
-1996年生于辽宁沈阳，目前在沈阳格微软件担任Java开发工程师。
+1996年生于辽宁沈阳，目前在[犀牛代理](http://www.xiniudaili.com/)担任Java开发工程师。
 
 * Github：https://github.com/rpdict
 
@@ -15,7 +15,18 @@
 # 求职意向
 
 * * *
-JAVA/PHP/Node.js全栈
+JAVA服务端
+
+# 亮点
+
+* * *
+
+* 使用 Node.js, Java或 PHP 开发现代的 Web 后端应用。
+* 对gitlab-ci持续集成和DockerFile均有实践。
+* 有较为扎实的 Java基础，工作期间开发过多项管理系统，有SpringCloud、SpringBoot、SpringMVC、Struts经验，熟悉常用算法。
+* 熟悉JavaScript，了解Express框架，用过Websocket。
+* 熟悉MySQL、Redis、Oracle、达梦、etcd。
+* 熟练使用jQuery、ajax、Bootstrap，用过Gulp、Webpack，对React、Angular均有实践。
 
 # 近期项目
 
@@ -23,25 +34,26 @@ JAVA/PHP/Node.js全栈
 
 
 
-## 军民融合编审汇聚系统
+## 军民融合汇聚编审系统
 
-2017年9月，该系统是军民融合网的内容考核子系统，使用SpringMVC、Mybatis、MySQL、达梦DB实现，我参与了数据库迁移工作，部分功能的编码工作，服务器的环境搭建，包括：
+2017年9月，该系统是军民融合网的内容考核子系统，使用SpringMVC、Mybatis实现，我参与了数据库迁移工作，部分功能的编码工作，服务器的环境搭建，包括：
 
 * 将MySQL数据库迁移到达梦国产数据库。
-* 使用NginX实现负载均衡、静态资源反向代理、配置SSL证书、增强安全性配置。
+* 使用NginX实现负载均衡、静态资源反向代理、配置SSL证书。
 * 生成自签名SSL证书。
 * 配置TongWeb服务器。
 * 重构HTTP接口为HTTPS。
-* 增加防XSS、CSRF等常见互联网攻击功能。
-* 加深了对互联网安全方面的知识和HTTP协议的使用。
+* 添加防CSRF功能。
 
-## Redash开源数据可视化平台前端定制开发
+## ADSL拨号服务器代理IP
 
-2018年5月至今，该系统是一个使用AngularJS+Flask实现的开源数据可视化平台，我参与开发基于百度Echarts实现的可视化图形组件，包括：
+2018年7月至今，该系统使用SpringMVC开发，我参与开发后台功能，包括：
 
-* 基于AngularJS实现的图形组件页面。
-* 使用ES6语法。
-* 基于docker的开发环境。
+* 各种代理IP爬取，购买，提取等功能。
+* 对gitlab-ci持续集成、极验验证码、RabbitMQ均有实践。
+* 使用etcd服务发现获取动态代理接口。
+* 使用Redis优化IP获取。
+* 实现PPTP+FreeRadius的Docker镜像。
 
 ## 企业信息管理平台门户的设计与实现 
 
@@ -58,16 +70,6 @@ JAVA/PHP/Node.js全栈
 * 了解了两个服务器之间如何通信，加深了对HTTP层的理解。
 * 加强了js操作DOM元素的使用。
 
-# 技术栈
-
-* * *
-
-* PHP：写过企业管理平台开源项目，有PHP基础，后因团队技术需要离开PHP社区，对微信公众平台、Laravel均有实践。
-* Java：有较为扎实的 Java基础，工作期间开发过多项管理平台，有Spring Cloud全家桶经验，熟悉常用算法，有RESTful API开发经验。
-* Node.js：熟悉JavaScript，了解Express框架，用过Websocket。
-* 数据库：熟悉基本SQL语句，搭建过Master-Slave，用过MongoDB、Redis、Oracle、达梦DB。
-* Web前端：熟练使用jQuery、ajax、axios、Bootstrap，用过Gulp、Webpack，对React、Angular均有实践。
-* Web容器：用过docker、vagrant，熟悉tomcat、NginX。
 
 
 
@@ -79,7 +81,7 @@ JAVA/PHP/Node.js全栈
 * 擅长游泳、音乐、素描。
 * 熟练使用Git、SVN等工具，并乐于在GitHub上分享代码。
 * 经常在GitHub和StackOverflow上拷贝代码。
-* 了解多种脚本语言，喜欢用Python处理数据。
+* 了解多种脚本语言。
 * 熟悉 Linux 命令行，熟练使用 OS X 系统。
 * 拿过三年的校奖学金，一次标兵，两次一等。
 * 2015年暑假代表学校参加“全国高校MOOC联合会”，座标杭州浙江大学。
