@@ -21,7 +21,7 @@ JAVA服务端
 
 * * *
 
-* 使用 Node.js, Java或 PHP 开发现代的 Web 后端应用。
+* 使用 Node.js，Java或 PHP 开发现代的 Web 后端应用。
 * 对gitlab-ci持续集成和DockerFile均有实践。
 * 有较为扎实的 Java基础，工作期间开发过多项管理系统，有SpringCloud、SpringBoot、SpringMVC、Struts经验，熟悉常用算法。
 * 熟悉JavaScript，了解Express框架，用过Websocket。
