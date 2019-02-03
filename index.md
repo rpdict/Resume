@@ -15,45 +15,72 @@
 # 求职意向
 
 * * *
-JAVA服务端
+
+## Golang服务端
 
 # 亮点
 
 * * *
 
-* 使用 Node.js，Java或 PHP 开发现代的 Web 后端应用。
-* 对gitlab-ci持续集成和DockerFile均有实践。
+* 使用Golang， Java，Node.js或 PHP 开发现代的 Web 后端应用。
+* 对gitlab-ci持续集成和DockerFile、docker-compose均有实践。
 * 有较为扎实的 Java基础，工作期间开发过多项管理系统，有SpringCloud、SpringBoot、SpringMVC、Struts经验，熟悉常用算法。
+* 有Golang线上产品经验，有etcd、GRpc经验，热爱Golang。
 * 熟悉JavaScript，了解Express框架，用过Websocket。
-* 熟悉MySQL、Redis、Oracle、达梦、etcd。
+* 对于MySQL、Redis、PostgreSQL、MongoDB、Oracle、达梦、etcd均有线上项目经验。
 * 熟练使用jQuery、ajax、Bootstrap，用过Gulp、Webpack，对React、Angular均有实践。
 
-# 近期项目
+# 沈阳星辰网络 - 2018 - 7 至今
 
 * * *
 
 
 
+## [犀牛代理](http://www.xiniudaili.com/)（ADSL服务器代理平台）
+
+2018年7月至今，该系统是使用SpringMVC、etcd、GRpc开发的微服务平台，我参与了服务器端大部分的设计工作，负责了大约全部的编码工作，包括：
+
+* 参与项目架构策划，技术选型。
+* 使用 Java， MySQL 和 Redis 构建 RESTful API。
+* 热衷于自动化部署以及测试。
+* 使用了大量新鲜技术优化查询速度，包括但不限于Redis、Lucene、ElasticSearch。
+* 自动化地构建镜像，在 Docker 上运行和管理容器。
+* 运维线上环境，处理紧急情况。
+* 带领团队完成上线工作。
+* 每周分写一篇技术文章用于SEO优化。
+* 强化了学习能力和抗压能力。
+
+## IP分发主控系统
+
+2018年10月至今，该系统是犀牛代理2.0威力增强版的核心工程，使用Golang、etcd、GRpc开发的微服务架构，我参与了部分服务器端的设计工作，负责了大约一半的编码工作，包括：
+
+* 首次在线上项目使用GRpc 配合Spring和Golang的微服务平台。
+* 使用[casbin](https://casbin.org/)实现权限管理。
+* 使用[grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)来兼容不支持社区版protobuf的项目。
+* 使用grpc-swagger测试RESTful API。
+* 使用了Redis、MongoDB等技术。
+
+# 沈阳格微软件 - 2017 - 7 至 2018 - 7
+
+* * *
+
 ## 军民融合汇聚编审系统
 
-2017年9月，该系统是军民融合网的内容考核子系统，使用SpringMVC、Mybatis实现，我参与了数据库迁移工作，部分功能的编码工作，服务器的环境搭建，包括：
+2017年9月，该系统是军民融合网的内容考核系统，使用SpringMVC、Mybatis实现，我参与了数据库迁移工作，部分功能的编码工作，服务器的环境搭建，包括：
 
-* 将MySQL数据库迁移到达梦国产数据库。
-* 使用NginX实现负载均衡、静态资源反向代理、配置SSL证书。
-* 生成自签名SSL证书。
-* 配置TongWeb服务器。
-* 重构HTTP接口为HTTPS。
-* 添加防CSRF功能。
+* 内容考核系统以及流程审批系统的编码工作。
+* 配合国家安全机关增强产品安全性。
+* 根据360检测报告修复多种安全漏洞。
+* 参与系统安全建设，包括但不限于https、csrf、xss。
+* 数据库性能调优、负载均衡等。
 
-## ADSL拨号服务器代理IP
+## 沈阳联通本地化系统
 
-2018年7月至今，该系统使用SpringMVC开发，我参与开发后台功能，包括：
+2017年7月，项目负责沈阳联通手机营业厅开展运营活动、追踪月入网用户活跃数量、为沈阳联通展示统计信息，在一年中，我我部分地参与了这个项目的设计工作和编码工作，使用了SpringMVC、MySQL、Oracle、[Redash](https://redash.io/) 等技术。
 
-* 各种代理IP爬取，购买，提取等功能。
-* 对gitlab-ci持续集成、极验验证码、RabbitMQ均有实践。
-* 使用etcd服务发现获取动态代理接口。
-* 使用Redis优化IP获取。
-* 实现PPTP+FreeRadius的Docker镜像。
+## 沈阳智慧工业云平台
+
+2018年4月，“沈阳市智慧工业云平台”是创新资源公共信息服务平台，我负责部分编码、数据库设计工作，多部门协作上线。
 
 ## 企业信息管理平台门户的设计与实现 
 
@@ -78,11 +105,11 @@ JAVA服务端
 
 * * *
 
-* 擅长游泳、音乐、素描。
-* 熟练使用Git、SVN等工具，并乐于在GitHub上分享代码。
+* 擅长游泳、音乐、素描，会弹钢琴。
+* 熟练使用 Git 并用GitHub分享代码。
 * 经常在GitHub和StackOverflow上拷贝代码。
-* 了解多种脚本语言。
-* 熟悉 Linux 命令行，熟练使用 OS X 系统。
+* 喜欢 V2EX、SegmentFault、知乎 等社区。
+* 熟练使用 OS X 系统。
 * 拿过三年的校奖学金，一次标兵，两次一等。
 * 2015年暑假代表学校参加“全国高校MOOC联合会”，座标杭州浙江大学。
 
