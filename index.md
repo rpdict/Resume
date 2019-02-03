@@ -1,7 +1,7 @@
 # 赵瑞鹏
 
 * * *
-1996年生于辽宁沈阳，目前在[犀牛代理](http://www.xiniudaili.com/)担任Java开发工程师。
+1996年生于辽宁沈阳，目前在[犀牛代理](http://www.xiniudaili.com/)担任G开发工程师。
 
 * Github：https://github.com/rpdict
 
