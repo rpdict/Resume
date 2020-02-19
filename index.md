@@ -27,7 +27,7 @@
 * 有较为扎实的 Java 和 Golang 基础，熟悉常用算法。
 * 用过vue，了解vuex。
 * 有桌面应用开发经验。
-* 熟悉GraphQL，Serverless。
+* 熟悉微服务，Serverless，GraphQL。
 
 # 沈阳星辰网络 - 2018 - 7 至今
 
