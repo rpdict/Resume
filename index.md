@@ -22,7 +22,7 @@
 
 * * *
 
-* 使用Golang，Java开发的现代后端应用。
+* 使用Golang，Java开发现代的 Web 后端应用。
 * 对gitlab-ci持续集成和DockerFile、docker-compose均有实践。
 * 有较为扎实的 Java 和 Golang 基础，熟悉常用算法。
 * 用过vue，了解vuex。
