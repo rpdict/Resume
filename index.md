@@ -23,7 +23,7 @@
 * * *
 
 * 使用Golang，Java开发现代的 Web 后端应用。
-* 对gitlab-ci持续集成和DockerFile、docker-compose均有实践。
+* 对gitlab-ci持续集成和docker均有实践。
 * 有较为扎实的 Java 和 Golang 基础，熟悉常用算法。
 * 用过vue，了解vuex。
 * 有桌面应用开发经验。
@@ -41,12 +41,13 @@
 
 * 参与项目架构策划，技术选型。
 * 使用GraphQL的现代化应用，加快前后端对接进度。
-* 全部使用Serverless，大幅度减少运维成本。
+* 使用Serverless，大幅度减少运维成本。
 * 开发CMS系统和旧系统的文章迁移。
 * 运维线上环境，处理紧急情况。
 * 带领团队完成上线工作。
 * 强化了学习能力和抗压能力。
 * 使用hasura加快项目进度。
+* 了解布隆过滤器。
 * 搭建开源站内统计系统。
 
 ## IP动态转发服务器
@@ -84,11 +85,14 @@
 
 2018年10月，更新为Golang、etcd、GRpc开发的微服务架构，我参与了部分服务器端的设计工作，负责了大约一半的编码工作，包括：
 
-* 首次在线上项目使用GRpc 配合Spring和Golang的微服务平台。
+* 首次在线上项目使用GRpc的微服务平台。
+* 框架采用go-micro。
 * 使用casbin实现权限管理。
 * 使用grpc-gateway来兼容不支持社区版protobuf的项目。
 * 使用grpc-swagger测试RESTful API。
 * 使用了Redis、MongoDB等技术。
+* 解决分布式事物相关问题。
+* 定位并解决解决服务熔断问题。
 
 # 沈阳格微软件 - 2017 - 7 至 2018 - 7
 
