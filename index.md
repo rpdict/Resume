@@ -1,7 +1,7 @@
 # 赵瑞鹏
 
 * * *
-1996年生于辽宁沈阳，目前在[河马代理](https://www.hemadaili.com/)担任Golang开发工程师。
+1996年生于辽宁沈阳，自高三（2014）开始学习编程，2017年离开学校开始以编程为工作，目前在[河马代理](https://www.hemadaili.com/)担任服务端开发工程师。
 
 * Github：https://github.com/rpdict
 
@@ -129,7 +129,8 @@
 * * *
 
 * 擅长游泳、音乐、素描，会弹钢琴。
-* 熟练使用 Git 并用GitHub分享代码。
-* 经常在GitHub和StackOverflow上拷贝代码。
+* 熟练使用 Git 并用 GitHub 分享代码。
+* 经常在 GitHub 和 StackOverflow 上拷贝代码。
 * 喜欢 V2EX、SegmentFault、知乎 等社区。
+* 喜欢 MOOC，2015年暑假曾代表学校参加“全国高校MOOC联合会”，座标杭州浙江大学。
 
