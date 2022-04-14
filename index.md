@@ -139,4 +139,4 @@
 * 熟练使用 Git 并用 GitHub 分享代码。
 * 经常在 GitHub 和 StackOverflow 上拷贝代码。
 * 喜欢 V2EX、SegmentFault、知乎等社区。
-* 喜欢 MOOC，2015年曾参加“全国高校MOOC联合会”，座标杭州浙江大学。 
+* 喜欢 MOOC，2015年曾参加“全国高校MOOC联合会”，座标杭州浙江大学。
